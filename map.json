@@ -33,6 +33,12 @@
          "id":2,
          "name":"bottom",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"blackmetal"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -87,6 +93,12 @@
          "id":16,
          "name":"Barhocker",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"shitbearBarhocker"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -99,12 +111,6 @@
          "id":1,
          "name":"top",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"playAudio",
-                 "type":"string",
-                 "value":"http:\/\/stream.laut.fm\/moshhead-blackmetal"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
