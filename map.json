@@ -37,7 +37,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"blackmetal"
+                 "value":"http:\/\/stream.laut.fm\/moshhead-blackmetal"
                 }],
          "type":"tilelayer",
          "visible":true,
